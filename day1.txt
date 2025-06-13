@@ -1,0 +1,12 @@
+what is veriable
+what is string
+what is type casting
+use of print() and input()
+basic data type of py
+>>>>>>>>>>>>>>>>>>>>>>>>>
+what is output of this program 
+print(type(input("")))
+..
+what is diffrence between "5" 5?
+..
+print type of 5.9+"e" & "e"+5.9
